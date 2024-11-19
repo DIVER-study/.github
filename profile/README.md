@@ -21,9 +21,9 @@ Com uma identidade visual leve e divertida, a Diver se posiciona como uma marca 
 
 ## Nossa Marca
 
-![logo](assets/Logo.png)
+![logo](https://github.com/DIVER-study/.github/blob/main/profile/assets/Logo.png?raw=true)
 
-![cores](assets/colors.png)
+![cores](https://github.com/DIVER-study/.github/blob/main/profile/assets/colors.png?raw=true)
 
 As cores da marca:
 
@@ -37,4 +37,4 @@ As cores da marca:
 
 Nosso mascote/avatar:
 
-![massacote](assets/icon.png)
+![massacote](https://github.com/DIVER-study/.github/blob/main/profile/assets/icon.png?raw=true)
